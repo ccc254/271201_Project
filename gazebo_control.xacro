@@ -13,8 +13,8 @@
             <wheel_diameter>0.025</wheel_diameter>
 
             <!-- Limits -->
-            <max_wheel_torque>200</max_wheel_torque>
-            <max_wheel_acceleration>10.0</max_wheel_acceleration>
+            <max_wheel_torque>100</max_wheel_torque>
+            <max_wheel_acceleration>5.0</max_wheel_acceleration>
 
             <!-- Output -->
             <odometry_frame>odom</odometry_frame>
@@ -33,8 +33,8 @@
             <right_joint>right_wheel_joint2</right_joint>
             <wheel_separation>0.35</wheel_separation>
             <wheel_diameter>0.025</wheel_diameter>
-            <max_wheel_torque>200</max_wheel_torque>
-            <max_wheel_acceleration>10.0</max_wheel_acceleration>
+            <max_wheel_torque>100</max_wheel_torque>
+            <max_wheel_acceleration>5.0</max_wheel_acceleration>
             <odometry_frame>odom</odometry_frame>
             <robot_base_frame>base_link</robot_base_frame>
             <publish_odom>true</publish_odom>
